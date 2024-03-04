@@ -1,0 +1,2 @@
+# kid-star
+Say hello
